@@ -1,3 +1,2 @@
 # Recycle
-Proyek Zero Waste berupa game simple tentang pemilahan sampah.
-Dibuat Oleh Muhammad Caesar Rifqi.
+Proyek Zero Waste berupa game simple tentang pemilahan sampah, dibuat Oleh Muhammad Caesar Rifqi.
