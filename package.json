@@ -1,7 +1,7 @@
 {
   "name": "recycle-game",
   "version": "0.0.0",
-  "description": "A Phaser 3 game that shows the love for recycling waste",
+  "description": "Proyek Untuk Zero Waste",
   "author": "Caesar Rifqi <https://caesarrifqi.github.io/proyek-zerowaste/>",
   "scripts": {
     "build": "node scripts/build",
