@@ -12,10 +12,10 @@
     "release": "standard-version --no-verify",
     "start": "node scripts/start"
   },
- "homepage": "https://caesarrifqi.github.io/proyek-zerowaste/,
+ "homepage": "https://caesarrifqi.github.io/proyek-zerowaste,
   "repository": {
     "type": "git",
-    "url": "https://caesarrifqi.github.io/proyek-zerowaste/
+    "url": "https://caesarrifqi.github.io/proyek-zerowast/
   },
   "devDependencies": {
     "@babel/cli": "^7.19.3",
