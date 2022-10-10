@@ -1,8 +1,8 @@
 {
   "name": "recycle-game",
   "version": "0.0.0",
-  "description": "Proyek Zerowaste",
-  "author": "Muhammad Caesar Rifki",
+  "description": "A Phaser 3 game that shows the love for recycling waste",
+  "author": "Caesar Rifqi <https://caesarrifqi.github.io/proyek-zerowaste/>",
   "scripts": {
     "build": "node scripts/build",
     "clean": "rm -rf build",
@@ -12,10 +12,13 @@
     "release": "standard-version --no-verify",
     "start": "node scripts/start"
   },
- "homepage": "https://caesarrifqi.github.io/proyek-zerowaste,
+  "homepage": "https://caesarrifqi.github.io/proyek-zerowaste",
   "repository": {
     "type": "git",
-    "url": "https://caesarrifqi.github.io/proyek-zerowast
+    "url": "https://github.com/CaesarRifqi/proyek-zerowaste"
+  },
+  "bugs": {
+    "url": "https://github.com/CaesarRifqi/proyek-zerowaste/issues"
   },
   "devDependencies": {
     "@babel/cli": "^7.19.3",
