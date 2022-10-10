@@ -15,7 +15,7 @@
  "homepage": "https://caesarrifqi.github.io/proyek-zerowaste,
   "repository": {
     "type": "git",
-    "url": "https://caesarrifqi.github.io/proyek-zerowast/
+    "url": "https://caesarrifqi.github.io/proyek-zerowast
   },
   "devDependencies": {
     "@babel/cli": "^7.19.3",
